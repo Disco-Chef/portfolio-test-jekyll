@@ -1,6 +1,126 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: Niko's Portfolio
+layout: default
 ---
+<html>
+  <head>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Lora|Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>CV Nicolas Agathos</title>
+    <meta name="description" content="Disco, previously known as Nicolas Jason Agathos or Nikolaos Iason Agathos, presents his first semi-proper attempt in webpage creation and styling.">
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <div class="section" id="top-part">
+      <div class="card photo col-8"></div>
+      <div class="col-6" id="name-title-origin">
+        <h1><strong>Nicolas Agathos</strong></h1>
+        <div id="title">
+          <h2>Fullstack Developer</h2>
+        </div>
+        <div id="origins">
+          <p>Nationality: Greek</p>
+        </div>
+        <div id="links-contact">
+          <a href="https://www.linkedin.com/in/nicolas-agathos/"><i class="fab fa-linkedin-in"></i></a>
+          <a href="https://github.com/Disco-Chef"><i class="fab fa-github"></i></a>
+          <a href="mailto: nicolas.agathos@gmail.com"><i class="fas fa-envelope"></i></a>
+        </div>
+      </div>
+    </div>
+    <div id="middle-part" class="section col-12">
+      <div class="experience-education">
+        <h2>Experience</h2>
+        <div class="section past-work-or-education">
+          <div class="what-when">
+            <div class="title">
+              <p>Part-time Coach</p>
+            </div>
+            <div class="location"><p>Techies Lab, Brussels</p>
+            </div>
+            <div class="date">
+              <p>Since June 2019</p>
+            </div>
+          </div>
+          <div class="section where">
+            <p>The Techies Lab enables children and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing, etc.). They also enjoy taking part in competitions, for which we train them.</p>
+          </div>
+        </div>
+        <div class="section past-work-or-education">
+          <div class="what-when">
+            <div class="title">
+              <p>Pâtissier’s Assistant</p>
+            </div>
+            <div class="location">
+              <p>Didier Dekimpe, Tervuren</p>
+            </div>
+            <div class="date">
+              <p>April 2018 – November 2018</p>
+            </div>
+          </div>
+          <div class="section where">
+            <p>One of the few bakeries/pastry shops that is also a provider to the Royal Court of Belgium and Jean-Michel Loriers. Made the daily pastries for the store front as well as special orders for VIP clients. Became the unrelenting work-or-education-machine that I am today thanks to them.</p>
+          </div>
+        </div>
+        <div class="section past-work-or-education">
+          <div class="what-when">
+            <div class="title">
+              <p>Commis</p>
+            </div>
+            <div class="location">
+              <p>Kitchenstaff, Leuven</p>
+            </div>
+            <div class="date">
+              <p>November 2015 - December 2017</p>
+            </div>
+          </div>
+          <div class="section where">
+            <p>Cooked for multiple catering events which ranged from small intimate gatherings all the way up to 4000+ people (Nekkerhal, Sportpaleis Antwerp, Tomorrowland Crew, Brussels Expo, international office canteens, De Vijfhoek restaurant etc). I left there more efficient, practical cook while at the same time being unyielding to stress.</p>
+          </div>
+        </div>
+        <div class="section past-work-or-education">
+          <div class="what-when">
+            <div class="title">
+              <p>Engineering Assistant</p>
+            </div>
+            <div class="location">
+              <p>UCL, Louvain-La-Neuve</p>
+            </div>
+            <div class="date">
+              <p>Summer '2013</p>
+            </div>
+          </div>
+          <div class="section where">
+            <p>Responsible for the complete design and deployment of the first outdoor continuous-process photo-bioreactor to be used in industry in Wallonia, under Prof. Jian Lee.</p>
+          </div>
+        </div>
+        <div class="section past-work-or-education">
+          <div class="what-when">
+            <div class="title">
+              <p>Engineering Assistant</p>
+            </div>
+            <div class="location">
+              <p>UCL, Louvain-La-Neuver</p>
+            </div>
+            <div class="date">
+              <p>Summer '2012</p>
+            </div>
+          </div>
+          <div class="section where">
+            <p>Responsible for the cultivation of bacterial and microalgal cells. Also, the eventual isolation of their DNA for electrophoresis, with the goal of cataloguing new strains in the universal database for Prof. Samir Abdulaye.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section" id="lower-part">
+      <div class="experience-education">
+        <h2>Education</h2>
+      </div>
+    </div>
+  </body>
+</html>
