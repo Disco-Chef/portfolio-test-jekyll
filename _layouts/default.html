@@ -1,11 +1,18 @@
 <!doctype html>
 <html>
   <head>
-    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Lora|Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    {% feed_meta %}
+    {% seo %}
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
   </head>
-  <body>
+  <body class="{% if page.style %}{{ page.style }} {% endif %}">
+    {% include navigation.html %}
     {{ content }}
   </body>
 </html>

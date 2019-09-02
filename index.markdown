@@ -6,11 +6,6 @@ layout: default
 ---
 <html>
   <head>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Lora|Roboto" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="style.css">
     <title>CV Nicolas Agathos</title>
     <meta name="description" content="Disco, previously known as Nicolas Jason Agathos or Nikolaos Iason Agathos, presents his first semi-proper attempt in webpage creation and styling.">
     <meta charset="utf-8">

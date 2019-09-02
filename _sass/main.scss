@@ -1,3 +1,6 @@
+.current {
+  color: green;
+}
 .section{
   background-color: white;
   display: flex;
@@ -49,9 +52,7 @@ p{
 .photo{
   height: 200px;
   width: 200px;
-  background-image: url("images/cropped-geeky.jpg");
-  background-size: cover;
-  background-position: center;
+  background-image: url(../assets/images/nikos.jpg);
   padding: 10px 15px;
   margin: 10px auto;
   border-radius: 5px;
@@ -110,3 +111,4 @@ body {
 }
 .fa-envelope:hover{
   color: black;
+}
