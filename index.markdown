@@ -115,24 +115,24 @@ layout: default
     <div class="section" id="lower-part">
       <div class="experience-education">
         <h2>Education</h2>
-      </div>
       <div class="section past-work-or-education">
-          <div class="what-when">
-            <div class="title">
-              <p>Le Wagon</p>
-            </div>
-            <div class="location">
-              <p>Brussels, Belgium</p>
-            </div>
-            <div class="date">
-              <p>April 2019 - June 2019</p>
-            </div>
+        <div class="what-when">
+          <div class="title">
+            <p>Le Wagon</p>
           </div>
-          <div class="section where">
-            <p>Attended Le Wagon Brussels (Batch #255). 9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a renting marketplace and a Rails prototype on:
-https://github.com/christinawunder/PoBuddy</p>
+          <div class="location">
+            <p>Brussels, Belgium</p>
+          </div>
+          <div class="date">
+            <p>April 2019 - June 2019</p>
           </div>
         </div>
+        <div class="section where">
+          <p>Attended Le Wagon Brussels (Batch #255). 9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a renting marketplace and a Rails prototype on:
+https://github.com/christinawunder/PoBuddy</p>
+        </div>
+      </div>
+      </div>
     </div>
   </body>
 </html>
