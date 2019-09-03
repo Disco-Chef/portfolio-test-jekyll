@@ -6,7 +6,7 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 gem 'bootstrap'
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.0.0"
