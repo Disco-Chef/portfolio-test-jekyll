@@ -7,7 +7,6 @@ layout: default
 <html>
   <head>
     <title>CV Nicolas Agathos</title>
-    <link rel="stylesheet" href="_saas/main.css">
     <meta name="description" content="Disco, previously known as Nicolas Jason Agathos or Nikolaos Iason Agathos, presents his first semi-proper attempt in webpage creation and styling.">
     <meta charset="utf-8">
   </head>
