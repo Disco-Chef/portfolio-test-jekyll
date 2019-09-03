@@ -118,10 +118,10 @@ layout: default
       <div class="section past-work-or-education">
         <div class="what-when">
           <div class="title">
-            <p>Le Wagon</p>
+            <p>Web development</p>
           </div>
           <div class="location">
-            <p>Brussels, Belgium</p>
+            <p>Le Wagon Brussels, Belgium</p>
           </div>
           <div class="date">
             <p>April 2019 - June 2019</p>
@@ -132,6 +132,53 @@ layout: default
           </p>
         </div>
       </div>
+      <div class="section past-work-or-education">
+        <div class="what-when">
+          <div class="title">
+            <p>Pastry and Breadmaking School</p>
+          </div>
+          <div class="location">
+            <p>CVO COOVI Anderlecht, Brussels</p>
+          </div>
+          <div class="date">
+            <p>January 2018 - June 2018</p>
+          </div>
+        </div>
+        <div class="section where">
+          <p></p>
+        </div>
+      </div>
+      <div class="section past-work-or-education">
+        <div class="what-when">
+          <div class="title">
+            <p>Bachelor in Business Administration</p>
+          </div>
+          <div class="location">
+            <p>KUL Brussels Campus, Belgium</p>
+          </div>
+          <div class="date">
+            <p>September 2014 - June 2017</p>
+          </div>
+        </div>
+        <div class="section where">
+          <p></p>
+        </div>
+      </div>
+      <div class="section past-work-or-education">
+        <div class="what-when">
+          <div class="title">
+            <p>Bachelor in Chemical Engineering</p>
+          </div>
+          <div class="location">
+            <p>Loughborough University</p>
+          </div>
+          <div class="date">
+            <p>September 2011 - June 2014</p>
+          </div>
+        </div>
+        <div class="section where">
+          <p></p>
+        </div>
       </div>
     </div>
   </body>
