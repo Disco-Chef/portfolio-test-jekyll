@@ -1,4 +1,4 @@
 - name: Home
-  link: /
+  link: /portfolio-test-jekyll/index.html
 - name: About
-  link: /about.html
+  link: /portfolio-test-jekyll/about.html
