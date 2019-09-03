@@ -32,6 +32,22 @@ layout: default
       <div class="experience-education">
         <h2>Experience</h2>
         <div class="section past-work-or-education">
+        <div class="what-when">
+          <div class="title">
+            <p>Teaching Assistant</p>
+          </div>
+          <div class="location">
+            <p>Le Wagon Brussels, Belgium</p>
+          </div>
+          <div class="date">
+            <p>September 2019 - Present</p>
+          </div>
+        </div>
+        <div class="section where">
+          <p>Having experienced first hand the benefits of the knowledge offered at the bootcamp, as well as the empowerment of self that occurs when one finds understanding, it made perfect sense to help others initialise their potential in development while searching for a developer position job. Seeing as my family is filled with teachers and professors, I don't know why I was actually surprised that it turned out to be a such a good fit! Currently, I am a teaching assistant for the students in both the full-time and part-time course.</p>
+        </div>
+      </div>
+        <div class="section past-work-or-education">
           <div class="what-when">
             <div class="title">
               <p>Part-time Coach</p>
@@ -59,7 +75,7 @@ layout: default
             </div>
           </div>
           <div class="section where">
-            <p>One of the few bakeries/pastry shops that is also a provider to the Royal Court of Belgium and Jean-Michel Loriers. Made the daily pastries for the store front as well as special orders for VIP clients. Became the unrelenting work-or-education-machine that I am today thanks to them.</p>
+            <p>One of the few bakeries/pastry shops that is also a provider to the Royal Court of Belgium and Jean-Michel Loriers. Made the daily pastries for the store front as well as special orders for VIP clients. I used to think cooks had it difficult and then I saw what it was like to work in a pastry workshop and realised that cooks have it way too easy! I became the unrelenting work-machine that I am today thanks to the people at Dekimpe.</p>
           </div>
         </div>
         <div class="section past-work-or-education">
@@ -128,7 +144,7 @@ layout: default
           </div>
         </div>
         <div class="section where">
-          <p>Attended Le Wagon Brussels (Batch #255). 9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a Rails prototype on: www.pobuddy.me
+          <p>Batch #255: 9-week intensive coding bootcamp learning <strong>HTML</strong>, <strong>CSS</strong>, <strong>Bootstrap</strong>, <strong>JavaScript ES5 + ES6</strong>, <strong>SQL</strong>, <strong>git</strong>, <strong>GitHub</strong>, <strong>Heroku</strong> and <strong>Ruby on Rails</strong>. Designed, implemented and shipped to production a Rails prototype on: www.pobuddy.me
           </p>
         </div>
       </div>
@@ -145,7 +161,7 @@ layout: default
           </div>
         </div>
         <div class="section where">
-          <p></p>
+          <p>Having worked in kitchens for a while before this, I had decided that I wanted more of a challenge (as if it wasn't challenging enough!) and the obvious path at the time seemed to be pastry. I loved making sweets, but I sure loved eating them too.</p>
         </div>
       </div>
       <div class="section past-work-or-education">
@@ -161,7 +177,7 @@ layout: default
           </div>
         </div>
         <div class="section where">
-          <p></p>
+          <p>My education in Loughborough had left a bitter taste in my mouth so I decided to take a step back and pursue another degree. This time in a matter that I thought was a bit more people-oriented than engineering that would also be a lot easier. Turns out both were only slightly truth-y, but it still made for a good degree and acquisition of knowledge.</p>
         </div>
       </div>
       <div class="section past-work-or-education">
@@ -177,7 +193,9 @@ layout: default
           </div>
         </div>
         <div class="section where">
-          <p></p>
+          <p>It made sense at the time: Nerdy kid + sciences = happiness
+          <br>
+          Little did I know that while all seemed well and good, Thermodynamics would come bite me in the ass in the long run!</p>
         </div>
       </div>
     </div>
