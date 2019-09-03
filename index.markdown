@@ -25,7 +25,7 @@ layout: default
 <div id="middle-part" class="section col-12">
   <div class="experience-education">
     <div class="skills">
-      Skills include, but not limited to*: Ruby, RoR, JS, HTML, CSS, Git, Github, SQL, Heroku, Middleman, Jekyll, Sinatra
+      <p>Skills include, but not limited to*: Ruby, RoR, JS, HTML, CSS, Git, Github, SQL, Heroku, Middleman, Jekyll, Sinatra</p>
     </div>
     <h2>Experience</h2>
     <div class="section past-work-or-education">
