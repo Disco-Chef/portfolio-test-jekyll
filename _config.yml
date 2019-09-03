@@ -28,7 +28,7 @@ twitter_username:
 github_username:  Disco-Chef
 
 # Build settings
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed
   - jekyll-sitemap
