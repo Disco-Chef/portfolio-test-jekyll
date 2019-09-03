@@ -5,11 +5,11 @@ title: Niko's Portfolio
 layout: default
 ---
 
-<div class="section" id="top-part">
-  <div class="card col-8">
+<div class="section col-8" id="top-part">
+  <div class="card">
     <div class="photo"></div>
   </div>
-  <div class="col-6" id="name-title-origin">
+  <div class="section col-6" id="name-title-origin">
     <h1><strong>Nicolas Agathos</strong></h1>
     <div id="title">
       <h2>Fullstack Developer</h2>
@@ -27,13 +27,14 @@ layout: default
     </div>
   </div>
 </div>
-<div class="section skills">
+<!-- NEST SKILLS INSIDE DIV -->
+<div class="section col-8 skills">
   <p>Skills include, but not limited to<strong>*</strong>: Ruby, RoR, JS, HTML, CSS, Git, Github, SQL, Heroku, Middleman, Jekyll, Sinatra</p>
-</div>
-<div class="section skills">
+<div class="section col-8 skills">
   <p><strong>*</strong>There is no end-all, be-all in my opinion when it comes to coding. It is a path of lifelong learning and as such, I am currently getting up to speed on React and Python. State management seemed like a very nifty tool to use and I wanted to get into AI and machine learning, so Python was the obvious choice! The list above will hopefully always be getting longer!</p>
 </div>
-<div id="middle-part" class="section col-6">
+</div>
+<div id="middle-part" class="section col-8">
   <div class="experience-education">
     <h2>Experience</h2>
     <div class="section past-work-or-education">
@@ -60,7 +61,7 @@ layout: default
         <div class="location"><p>Techies Lab, Brussels</p>
         </div>
         <div class="date">
-          <p>Since June 2019</p>
+          <p>June 2019 - Present</p>
         </div>
       </div>
       <div class="section where">
@@ -133,7 +134,7 @@ layout: default
     </div>
   </div>
 </div>
-<div class="section col-6" id="lower-part">
+<div class="section col-8" id="lower-part">
   <div class="experience-education">
     <h2>Education</h2>
   <div class="section past-work-or-education">

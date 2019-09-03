@@ -7,7 +7,7 @@
 /*  border-radius: 6px;*/
   text-align: center;
 /*  box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.3);*/
-  width: 67vw;
+  // width: 67vw;
   margin: 0 auto;
 }
 .card {
@@ -37,13 +37,14 @@ p{
 #name-title-origin{
   text-align: right;
   margin-right: 10px;
+  flex-direction: column;
 }
 #links-details{
   flex-direction: column;
 }
 #links-contact{
-  display: flex;
-  float: right;
+  // display: flex;
+  // float: right;
   /*flex-direction: column;*/
 }
 #main-stage{
@@ -60,10 +61,11 @@ p{
   border-radius: 5px;
 }
 .what-when{
-  width: 34%;
+  width: 45%;
   margin: 5px 5px;
 }
 .where{
+  width:65%;
   text-align: left;
   margin: 5px 5px;
   align-items: center;
