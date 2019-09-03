@@ -116,6 +116,22 @@ layout: default
       <div class="experience-education">
         <h2>Education</h2>
       </div>
+      <div class="section past-work-or-education">
+          <div class="what-when">
+            <div class="title">
+              <p>Le Wagon</p>
+            </div>
+            <div class="location">
+              <p>Brussels, Belgium</p>
+            </div>
+            <div class="date">
+              <p>April 2019 - June 2019</p>
+            </div>
+          </div>
+          <div class="section where">
+            <p>Responsible for the complete design and deployment of the first outdoor continuous-process photo-bioreactor to be used in industry in Wallonia, under Prof. Jian Lee.</p>
+          </div>
+        </div>
     </div>
   </body>
 </html>
