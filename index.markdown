@@ -129,7 +129,8 @@ layout: default
             </div>
           </div>
           <div class="section where">
-            <p>Responsible for the complete design and deployment of the first outdoor continuous-process photo-bioreactor to be used in industry in Wallonia, under Prof. Jian Lee.</p>
+            <p>Attended Le Wagon Brussels (Batch #255). 9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a renting marketplace and a Rails prototype on:
+https://github.com/christinawunder/PoBuddy</p>
           </div>
         </div>
     </div>
