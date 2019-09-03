@@ -24,6 +24,9 @@ layout: default
 </div>
 <div id="middle-part" class="section col-12">
   <div class="experience-education">
+    <div class="skills">
+      Skills include, but not limited to*: Ruby, RoR, JS, HTML, CSS, Git, Github, SQL, Heroku, Middleman, Jekyll, Sinatra
+    </div>
     <h2>Experience</h2>
     <div class="section past-work-or-education">
     <div class="what-when">
@@ -138,7 +141,7 @@ layout: default
       </div>
     </div>
     <div class="section where">
-      <p>Batch #255: 9-week intensive coding bootcamp learning <strong>HTML</strong>, <strong>CSS</strong>, <strong>Bootstrap</strong>, <strong>JavaScript ES5 + ES6</strong>, <strong>SQL</strong>, <strong>git</strong>, <strong>GitHub</strong>, <strong>Heroku</strong> and <strong>Ruby on Rails</strong>. Designed, implemented and shipped to production a Rails prototype on: www.pobuddy.me
+      <p>Batch #255: 9-week intensive coding bootcamp learning <strong>HTML</strong>, <strong>CSS</strong>, <strong>Bootstrap</strong>, <strong>JavaScript ES6</strong>, <strong>SQL</strong>, <strong>git</strong>, <strong>GitHub</strong>, <strong>Heroku</strong> and <strong>Ruby on Rails</strong>. Designed, implemented and shipped to production a Rails prototype on: www.pobuddy.me
       </p>
     </div>
   </div>
