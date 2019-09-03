@@ -22,8 +22,8 @@ title: Nicolas Jason Agathos
 email: nicolas.agathos@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A portfolio website showcasing Niko and his past projects.
-baseurl: "https://disco-chef.github.io/portfolio-test-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://disco-chef.github.io/portfolio-test-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  Disco-Chef
 
@@ -33,9 +33,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-sass:
-  sass_dir: bower_components/bootstrap-sass/assets/stylesheets
-  style: compressed
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

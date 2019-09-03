@@ -12,6 +12,9 @@ layout: default
     <div id="title">
       <h2>Fullstack Developer</h2>
     </div>
+    <div id="residing">
+      <p>Currently living in: Brussels</p>
+    </div>
     <div id="origins">
       <p>Nationality: Greek</p>
     </div>
