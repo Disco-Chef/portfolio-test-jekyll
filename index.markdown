@@ -29,7 +29,7 @@ layout: default
 </div>
 <!-- NEST SKILLS INSIDE DIV -->
 <div class="section col-8 skills">
-  <p>Skills include, but not limited to<strong>*</strong>: Ruby, RoR, JS, HTML, CSS, Git, Github, SQL, Heroku, Middleman, Jekyll, Sinatra</p>
+  <h2>Skills include, but not limited to<strong>*</strong>: Ruby, RoR, JS, HTML, CSS, Git, Github, SQL, Heroku, Middleman, Jekyll, Sinatra</h2>
 <div class="section col-8 skills">
   <p><strong>*</strong>There is no end-all, be-all in my opinion when it comes to coding. It is a path of lifelong learning and as such, I am currently getting up to speed on React and Python. State management seemed like a very nifty tool to use and I wanted to get into AI and machine learning, so Python was the obvious choice! The list above will hopefully always be getting longer!</p>
 </div>
