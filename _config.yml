@@ -21,9 +21,9 @@
 title: Nicolas Jason Agathos
 email: nicolas.agathos@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A portfolio website showcasing Nikos and his past projects.
+  A portfolio website showcasing Niko and his past projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nikosagathos.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  Disco-Chef
 
