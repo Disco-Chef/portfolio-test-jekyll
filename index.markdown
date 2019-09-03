@@ -6,7 +6,9 @@ layout: default
 ---
 
 <div class="section" id="top-part">
-  <div class="card photo col-8"></div>
+  <div class="card col-8">
+    <div class="photo"></div>
+  </div>
   <div class="col-6" id="name-title-origin">
     <h1><strong>Nicolas Agathos</strong></h1>
     <div id="title">
