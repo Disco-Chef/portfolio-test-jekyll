@@ -52,7 +52,9 @@ p{
 .photo{
   height: 200px;
   width: 200px;
-  background-image: url(../images/nikos.jpg);
+  background-image: url('../images/nikos.jpg');
+  background-size: cover;
+  background-position: center;
   padding: 10px 15px;
   margin: 10px auto;
   border-radius: 5px;
