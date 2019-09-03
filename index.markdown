@@ -52,7 +52,7 @@ layout: default
               <p>Pâtissier’s Assistant</p>
             </div>
             <div class="location">
-              <p>Didier Dekimpe,  ddd Tervuren</p>
+              <p>Didier Dekimpe, Tervuren</p>
             </div>
             <div class="date">
               <p>April 2018 – November 2018</p>
