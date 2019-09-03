@@ -100,7 +100,7 @@ layout: default
               <p>Engineering Assistant</p>
             </div>
             <div class="location">
-              <p>UCL, Louvain-La-Neuver</p>
+              <p>UCL, Louvain-La-Neuve</p>
             </div>
             <div class="date">
               <p>Summer '2012</p>
