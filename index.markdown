@@ -141,7 +141,7 @@ layout: default
       </div>
     </div>
     <div class="section where">
-      <p>Batch #255: 9-week intensive coding bootcamp learning <strong>HTML</strong>, <strong>CSS</strong>, <strong>Bootstrap</strong>, <strong>JavaScript ES6</strong>, <strong>SQL</strong>, <strong>git</strong>, <strong>GitHub</strong>, <strong>Heroku</strong> and <strong>Ruby on Rails</strong>. Designed, implemented and shipped to production a Rails prototype on: www.pobuddy.me
+      <p>Batch #255: 9-week intensive coding bootcamp learning <strong>HTML</strong>, <strong>CSS</strong>, <strong>Bootstrap</strong>, <strong>JavaScript ES6</strong>, <strong>SQL</strong>, <strong>git</strong>, <strong>GitHub</strong>, <strong>Heroku</strong> and <strong>Ruby on Rails</strong>. Designed, implemented and shipped to production a Rails prototype on: <a href="www.pobuddy.me/">www.pobuddy.me</a>
       </p>
     </div>
   </div>
