@@ -129,7 +129,7 @@ layout: default
         </div>
         <div class="section where">
           <p>Attended Le Wagon Brussels (Batch #255). 9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a renting marketplace and a Rails prototype on:
-https://github.com/christinawunder/PoBuddy</p>
+          https://github.com/christinawunder/PoBuddy</p>
         </div>
       </div>
       </div>
