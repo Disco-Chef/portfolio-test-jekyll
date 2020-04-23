@@ -40,7 +40,7 @@ layout: default
     <div class="section past-work-or-education">
     <div class="what-when">
       <div class="title">
-        <p>Teaching Assistant</p>
+        <p>Teacher</p>
       </div>
       <div class="location">
         <p>Le Wagon Brussels, Belgium</p>
